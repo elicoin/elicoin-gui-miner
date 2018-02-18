@@ -1,5 +1,5 @@
 # Donations
-If you'd like to support the development of Elicoin, please send us any amount of your favourite cryptocurrency using these addresses:
+If you'd like to support the development of Elicoin GUI miner, please send us any amount of your favourite cryptocurrency using these addresses:
 
 Cryptocurrency | Address
 -------------- | -------
