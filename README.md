@@ -13,3 +13,4 @@ This application is written in C# (.NET 2.0) and works under Windows.
 
 ## License
 Elicoin GUI Miner is open source software developed under [**MIT license**](./LICENSE).
+ 
